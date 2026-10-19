@@ -2,9 +2,10 @@
 
 Приложение для Windows: чат матча, голоса игроков и 2D-демо CS2.
 
+[Установщик VOXTICK для Windows](https://github.com/RKD-off/VOXTICK/releases/download/5.0.2/VOXTICK-Setup.exe)
 [Последний выпуск](https://github.com/RKD-off/VOXTICK/releases/latest)
 
-В разделе Assets скачай **VOXTICK.exe** и запусти его. Python не требуется.
+Скачай установщик VOXTICK-Setup.exe и обнови его.
 Для встроенного интерфейса нужен Microsoft Edge WebView2 Runtime.
 
 Начиная с 4.2.35 приложение проверяет этот репозиторий автоматически.
